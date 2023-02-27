@@ -6,3 +6,11 @@ function laCajaDePandora(numero) {
     return numero.toString(16);
   }
 }
+
+function fabian() {
+  return {
+    nombre: Fabian,
+    edad: 25,
+    nacionalidad: Colombiano,
+  };
+}
