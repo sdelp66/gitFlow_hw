@@ -14,7 +14,7 @@ let num = number;
 }
 
 
-function luis () {
+function luisNar () {
     objeto = {nombre :luis ,
         nacionaldiad: colombiano,
         edad: 20}; 
