@@ -7,3 +7,11 @@ function laCajaDePandora(numero){
             return numero.toString(16); // Convertir a hexadecimal
         }
     }
+
+function sdelp() {
+  return {
+    nombre: "Sergio",
+    edad: 56,
+    nacionalidad: "Argentino"
+  };
+}
