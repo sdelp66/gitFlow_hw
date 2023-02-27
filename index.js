@@ -11,7 +11,13 @@ let num = number;
   return binary
 }
   
+}
 
+
+function luis () {
+    objeto = {nombre :luis ,
+        nacionaldiad: colombiano,
+        edad: 20}; 
 }
 
 
