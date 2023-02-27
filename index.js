@@ -1,3 +1,23 @@
+
+/* function laCajaDePandora(numero) {
+  // proximamente escribiremos codigo aqui
+  if (numero % 2 === 0) {
+    return numero.toString(2);
+  } else if (numero % 2 !== 0) {
+    return numero.toString(16);
+  }
+} */
+
+
+function fabian() {
+  return {
+    nombre: Fabian,
+    edad: 25,
+    nacionalidad: Colombiano,
+  };
+}
+/*
+// Funcion de Luis
 function laCajaDePandora(numero){
 let num = number;
 
@@ -12,7 +32,7 @@ let num = number;
 }
   
 }
-
+*/
 
 function luis () {
     objeto = {nombre :luis ,
@@ -21,5 +41,24 @@ function luis () {
 }
 
 
+
+
+function laCajaDePandora(numero){
+    // proximamente escribiremos codigo aqui
+
+        if (numero % 2 === 0) {
+            return numero.toString(2); // Convertir a binario
+        } else {
+            return numero.toString(16); // Convertir a hexadecimal
+        }
+    }
+
+function sdelp() {
+  return {
+    nombre: "Sergio",
+    edad: 56,
+    nacionalidad: "Argentino"
+  };
+}
 
 
